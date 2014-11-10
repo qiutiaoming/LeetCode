@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 /**
  * @Author: qiutiaoming on 14-11-9.
- * @E-mail: Qiutiaoming@playcrab.com
+ * @E-mail: qtm315@qq.com
  * <p/>
  * Given a sorted array,remove the duplicates in place such that each element appear only once
  * and return the new length.
